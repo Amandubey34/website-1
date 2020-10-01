@@ -73,3 +73,5 @@ python manage.py collectstatic
 ```
 
 Note that this *will not* update the images on the site as they are still served by Cloudfront. You need to invalidate the updated files using the AWS cli or web interface.
+
+## Stay Safe
